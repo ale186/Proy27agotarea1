@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.padre{
+    background-color: indianred;
+    padding: 20px 50px;
+    margin: 50px;
+    width: 800px;
+    height: 800px;
+}
+.circulo1{
+    background-color: yellow;
+    border-radius: 50%;
+    padding: 10px;
+    margin: 20px 210px;
+    height: 350px;
+}
+.circulo2{
+    background-color: chartreuse;
+    border-radius: 50%;
+    padding: 10px;
+    height: 330px;
+}
+.circulo3{
+    background-color: blueviolet;
+    border-radius: 50%;
+    padding: 10px;
+    height: 310px;
+}
+.circulo4{
+    background-color: rgb(83, 43, 226);
+    border-radius: 50%;
+    padding: 10px;
+    height: 290px;
+}
+.circulo5{
+    background-color: #2be243;
+    border-radius: 50%;
+    padding: 10px;
+    height: 270px;
+}
+.circulo6{
+    background-color: blueviolet;
+    border-radius: 50%;
+    padding: 10px;
+    height: 250px;
+}
+.circulo7{
+    background-color: rgb(226, 95, 43);
+    border-radius: 50%;
+    padding: 10px;
+    height: 230px;
+}
+h1{
+    height: 0;
+}
